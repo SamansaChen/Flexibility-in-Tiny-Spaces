@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Analysis"
+title: "Technology"
 categories: Studio Process
 author:
 - Samansa Chen
