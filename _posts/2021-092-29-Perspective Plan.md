@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Definition of Home"
+title: "Perspective Plan"
 categories: Studio Process
 author:
 - Samansa Chen
